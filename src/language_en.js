@@ -1,0 +1,25 @@
+const languageData = {
+    name: "Ori Li",
+    name_sub: "An amateur frontend engineer",
+    about_1: "Man | Married | 1988.07",
+    about_2: "Live in Shenzhen,Huizhou",
+    about_3: "Guangdonger | Dotaer | Boardgamer",
+    skills: "Skills",
+    Frontend: "Frontend",
+    Backend: "Backend",
+    Tool: "Tool",
+    Others: "Others",
+    work_step1: "Jul.2011",
+    work_tit1: "Graduated from Guangdong University of Technology",
+    work_step2: "Jul.2011 - Apr.2016",
+    work_tit2: "TCL Communication Technology Holdings Ltd",
+    work_detail2: "At the beginning, work as helpdesk engineer. After one year, beacuse positive attitude, join into a newly R & D team start my code life. Mainly responsible for goa system development.",
+    work_step3: "Jun.2016 - Present",
+    work_tit3: "Onwards Media Group-SZ",
+    work_detail3: "Position is Front-end Engineer. Mainly responsible for front-end development and some back-end work",
+    Home: "Home",
+    About: "About",
+    Experience: "Experience",
+    Portfolio: "Portfolio"
+};
+export default languageData;
